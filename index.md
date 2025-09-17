@@ -46,3 +46,22 @@ title: WORFLOGY Inc. CEO Intro.
 ---
 
 > 워플로지는 저의 강점뿐만 아니라 약하게 평가된 성향까지도 모두 '어떻게 하면 더 신뢰할 수 있고 학습 가능한 의사결정 시스템을 만들 것인가?'라는 하나의 목표를 위해 활용된 결과입니다. 저는 이러한 일관된 철학을 바탕으로 가장 진솔하고 신뢰도 높은 솔루션을 제공하겠습니다.
+
+> 문제해결 (소통) {**체계역학 프로세스 디자인**;} ➡️ 문제해결 (소통) {**지능형 워크플로 디자인 (AI·온톨로지 솔루션)**;}<br>
+RiskMgt.Workflow = {
+    ProblemSolving: {Communication: () => {
+        ProblemStructuring();
+        StakeholderIdentifying();
+        PersonaDefining();
+        AgendaGenerating();
+        Meeting_Minutes();
+        ProcessUpdating();
+        Execution_Monitoring();
+        Assessment();
+        Reporting();
+        Feedback();
+        }
+    }
+};
+
+[**스타트업-데이트 저널 방문하기**](https://worflogy.com)
