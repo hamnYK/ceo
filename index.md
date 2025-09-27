@@ -65,4 +65,4 @@ RiskMgt.Workflow = {<br>
     }<br>
 };
 
-[**스타트업-데이트 연구노트 방문하기**](https://journal.worflogy.com)
+[**스타트업-데이트 실험실 노트 방문하기**](https://journal.worflogy.com)
