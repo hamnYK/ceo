@@ -66,3 +66,6 @@ RiskMgt.Workflow = {<br>
 };
 
 [**스타트업-데이트 실험실 노트 방문하기**](https://journal.worflogy.com)
+
+> **CEO 발자국**<br>
+![CEO 프로필](ceo_Footprint.png)
